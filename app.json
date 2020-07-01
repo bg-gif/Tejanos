@@ -1,0 +1,12 @@
+{
+  "name": "Tejanos",
+  "displayName": "Tejanos",
+  "expo": {
+    "name": "Tejanos",
+    "slug": "Tejanos",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
